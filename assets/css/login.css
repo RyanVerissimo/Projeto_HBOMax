@@ -71,6 +71,15 @@ body {
   font-weight: bold;
 }
 
+.footer__social i {
+  color: #9a7fff;
+  font-size: 30px;
+}
+
+.footer__social a {
+  text-decoration: none;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 480px) {
